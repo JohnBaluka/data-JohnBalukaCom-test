@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:03,300
+I have three options for how we can work together.
+
+2
+00:00:03,300 --> 00:00:32,600
+First, we could work together on an Advisory-based contract.  This allows for 24/7 access to my 30+ years of experience that can be structured as coaching, training, small cohort, or consulting.  It is like insurance for your software development team moving forward within the Microsoft Stack.  For first-time clients, this is usually the best and safest choice. The price for an Advisory engagement is within four figures, and the average engagement usually spans across four weeks to get the results you expect.
+
+3
+00:00:32,600 --> 00:00:37,500
+For something more specific to Blazor, check out my options at MovingToBlazor.com.
+
+4
+00:00:37,500 --> 00:00:52,800
+Second, I offer a Project-based contract, to where, I would deliver a specific deliverable within how your platform is evolving.  The price for a Project engagement is within five figures, and the target for deliverables usually span between four and twelve weeks.
+
+5
+00:00:52,800 --> 00:01:11,400
+Third, the Solution-based contract is where I, and possibly others, simply “do it all”.  The price for a Solution engagement is within six figures, and the target for deliverables usually begins after four weeks.  The duration of the creating, implementing, and transferring the solution usually takes six to twelve months.
+
+6
+00:01:11,400 --> 00:01:15,500
+For everything I do, I provide a 100% guarantee for my work.
+
+7
+00:01:15,500 --> 00:01:19,600
+I always start with a Free Consultation to see if there is a good fit.
+
+8
+00:01:19,600 --> 00:01:45,500
+To start the conversation, email me at John@JohnBaluka.com.  I look forward to hearing from you. Also feel free to check out my YouTube channel, connect with me on LinkedIn, check out my GitHub repository, see my available presentations and workshops on Sessionize.com for conferences and meetups, go to MovingToBlazor.com to see more options, or go to MultimodalSlides.com to learn more about converting PowerPoint into a website.
+

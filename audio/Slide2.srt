@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:05,700
+The Microsoft .NET framework, languages, and tools have been around for over 20 years and continue to evolve.
+
+2
+00:00:05,700 --> 00:00:13,900
+In particular, Blazor is an excellent choice for most developers using .NET to create Web, Mobile, and Desktop applications.
+
+3
+00:00:13,900 --> 00:00:22,099
+The Microsoft Office APIs can be tricky to utilize.  There are many options to choose from when it comes to performance and capabilities.
+
+4
+00:00:22,099 --> 00:00:26,299
+Many companies now rely on the cloud whether using Azure or AWS.
+
+5
+00:00:26,299 --> 00:00:33,800
+With all these factors, deciding what and how to upgrade or rewrite, while being able to scale your applications, is critical to get right.
+
+6
+00:00:33,800 --> 00:00:44,699
+You do not want to keep guessing your return on investment (ROI), whether the updated solution will be maintainable, and you want the best choice for the team that must support the applications moving forward.
+

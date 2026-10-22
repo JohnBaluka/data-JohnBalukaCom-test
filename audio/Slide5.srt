@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:16,500
+If you’re tired of creating a new website for every Blazor web application, then Oqtane might be an excellent choice.  Oqtane is a cross-platform Content Management System (CMS) and application framework for building modern web experiences on .NET and Blazor.
+
+2
+00:00:16,500 --> 00:00:21,700
+Oqtane is Open Source and available on GitHub with a very permissible MIT License.
+
+3
+00:00:21,700 --> 00:00:28,100
+Oqtane applications are composed of reusable web components providing a consistent and efficient development experience.
+
+4
+00:00:28,100 --> 00:00:38,700
+Oqtane especially shines when it comes to administration.  Common web site management aspects like User Management, Event Logs, and Multi-site Administration are all built-in.
+
+5
+00:00:38,700 --> 00:00:47,900
+The combination of the Microsoft Tech Stack, Blazor, radzen and Oqtane will provide your organization great leverage to quickly and effectively achieve your goals.
+

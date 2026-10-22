@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:01,600
+Hello, I’m John Baluka.
+
+2
+00:00:01,600 --> 00:00:08,900
+I have 30+ years of experience as a software developer within the Microsoft Tech Stack of languages, frameworks, and products.
+
+3
+00:00:08,900 --> 00:00:15,200
+I have been interested how Blazor can dramatically increase productivity, quality, and usage of custom applications.
+
+4
+00:00:15,200 --> 00:00:20,400
+Overall, I focus on helping professionals move forward within the Microsoft Stack of Technologies.
+
